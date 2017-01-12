@@ -1,0 +1,11 @@
+
+
+
+aabbccddeeff
+aabbccddeeff
+aabbccddeeff
+aabbccddeeff
+aabbccddeeff
+aa:bb:cc:dd:ee:ff
+
+s/\(\w\{2}\)\(\w\{2}\)\(\w\{2}\)\(\w\{2}\)\(\w\{2}\)\(\w\{2}\)/\1:\2:\3:\4:\5:\6/
